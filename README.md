@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hey, I'm Tushar!<br><br>I'm a frontend web developer learning my way into full-stack development. I spend most of my time working with React, Tailwind CSS, and other modern web tools like Vite and Next.js. I enjoy building websites and apps that look good and work well.<br><br>Right now, I'm learning more about Data Structures and Algorithms (DSA) and improving my problem-solving skills through coding projects. I also like experimenting with animations using GSAP and making things more interactive with React Three.<br><br>🔧 What I work with:<br><br>HTML, CSS, JavaScript<br>React, Next.js, Vite<br>Tailwind CSS<br>GSAP, Locomotive Scroll<br>Node.js, MongoDB (MERN stack)<br>📚 Some of my projects:<br><br>DripStreet – an e-commerce site for fashion<br>AlgoInsight – a site to explain DSA concepts<br>Grapes – a blogging platform using Appwrite<br>Feel free to check out my work or reach out if you'd like to connect!
-
+<br>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif">
-  
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_tush_ar._._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-bhatt-05b8b11a5/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/jeontuskie/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Tushar_Bhatt_) 
 
